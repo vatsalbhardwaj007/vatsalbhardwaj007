@@ -1,4 +1,9 @@
 # 💫 About Me:
+<div align="center">
+  <img src="assets/vatsal_animated_header.svg"
+       width="100%"
+       alt="Vatsal Bhardwaj">
+</div>
 ## `~/` whoami<br><br>```console<br>$ ./whoami<br>```<br><br>```text<br>Vatsal Bhardwaj<br>────────────────────────────────────────────<br>Backend Engineer in progress.<br>Problem solver by habit.<br>Builder by choice.<br>```<br><br>I like taking complicated ideas, pulling them apart, and figuring out how to make them work.<br><br>My interests sit around **backend engineering, machine learning, system design, and simulation** — especially projects where there's more happening underneath than what you see on the screen.<br><br>```console<br>$ cat interests.txt<br><br>→ Backend & APIs<br>→ Machine Learning<br>→ System Design<br>→ Simulation & Modeling<br>→ Competitive Programming<br>→ Building things that shouldn't exist yet<br>```<br><br>```console<br>$ git status<br><br>On branch: learning<br>Status: constantly experimenting<br><br>Things I believe:<br>  • Good software starts with understanding the problem.<br>  • The best way to learn a system is to build one.<br>  • "It works" is the beginning, not the end.<br>  • Debugging is just detective work with better error messages.<br>```<br><br>```console<br>$ ./current_process<br><br>Learn → Build → Break → Debug → Improve → Repeat<br>```<br><br><sub>01100010 01110101 01101001 01101100 01100100 00101110 01100100 01100101 01100010 01110101 01100111 00101110 01110010 01100101 01110000 01100101 01100001 01110100</sub><br>
 
 
