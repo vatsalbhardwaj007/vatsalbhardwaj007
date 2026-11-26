@@ -1,5 +1,7 @@
 # Vatsal Bhardwaj
 
+<p align="center"><img src="assets/vatsal-animated-higher-density.svg" width="720" alt="Animated halftone portrait of Vatsal with green terminal text"></p>
+
 ```text
 vatsal@github:~$ whoami
 AI projects · web applications · Python backends
