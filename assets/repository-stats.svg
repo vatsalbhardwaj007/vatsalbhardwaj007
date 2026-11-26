@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="300" viewBox="0 0 760 300">
+  <rect x="0.5" y="0.5" width="759" height="299" rx="12" fill="#101820" stroke="#2d464c"/>
+  <g font-family="ui-monospace, Consolas, monospace" fill="#d5e7e8">
+    <text x="26" y="34" font-size="18" fill="#7df9c1">Primary languages</text>
+    <text x="26" y="55" font-size="13">Repositories per language</text>
+    <polygon points="205.00,156.00 224.00,175.00 205.00,194.00 186.00,175.00" fill="none" stroke="#365256"/>
+    <polygon points="205.00,137.00 243.00,175.00 205.00,213.00 167.00,175.00" fill="none" stroke="#365256"/>
+    <polygon points="205.00,118.00 262.00,175.00 205.00,232.00 148.00,175.00" fill="none" stroke="#365256"/>
+    <polygon points="205.00,99.00 281.00,175.00 205.00,251.00 129.00,175.00" fill="none" stroke="#365256"/>
+    <path d="M 205 99 V 251 M 129 175 H 281" stroke="#365256"/>
+    <polygon points="205.00,124.33 281.00,175.00 205.00,200.33 205.00,175.00" fill="#7df9c1" fill-opacity=".28" stroke="#7df9c1" stroke-width="2"/>
+    <text x="205" y="82" text-anchor="middle" font-size="15">TypeScript · 2</text>
+    <text x="296" y="180" text-anchor="start" font-size="15">Python · 3</text>
+    <text x="205" y="276" text-anchor="middle" font-size="15">JavaScript · 1</text>
+    <text x="115" y="180" text-anchor="end" font-size="15">Other · 0</text>
+    <path d="M 410 25 V 275" stroke="#365256"/>
+    <text x="440" y="34" font-size="18" fill="#7df9c1">Public GitHub stats</text>
+    <text x="440" y="113" font-size="31" fill="#7df9c1">8</text>
+    <text x="440" y="137" font-size="15">Public repositories</text>
+    <text x="440" y="196" font-size="31" fill="#7df9c1">0</text>
+    <text x="440" y="220" font-size="15">Stars across repositories</text>
+    <text x="440" y="266" font-size="12">Forks and profile repo excluded</text>
+  </g>
+</svg>

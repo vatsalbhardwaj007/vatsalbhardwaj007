@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="94" viewBox="0 0 760 94">
+  <rect x="0.5" y="0.5" width="759" height="93" rx="12" fill="#101820" stroke="#2d464c"/>
+  <g font-family="ui-monospace, Consolas, monospace" fill="#d5e7e8">
+    <text x="24" y="37" font-size="19" fill="#7df9c1">Contribution snake</text>
+    <text x="24" y="66" font-size="14">Appears after the first GitHub Actions run.</text>
+  </g>
+</svg>
